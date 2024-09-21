@@ -207,3 +207,83 @@ nano .git/config
 git add .
 git commit -m "Classwork for 09/17/2024"
 git push
+ls -al
+cd DS2022-Forked-Copy
+touch madlib.sh
+ls -al
+cd ..
+ls -al
+cd DS2022-Forked-Copy
+ls -al
+touch madlib.sh
+ls -al
+history
+clear
+cd ..
+touch madlib.sh
+ls -al
+nano madlib.sh
+madlib.sh
+chmod 755 madlib.sh
+./madlib.sh
+s
+history
+clear
+nano madlib.sh
+./madlib.sh
+nano madlib.sh
+./madlib.sj
+./madlib.sh
+clear
+./madlib.sh
+nano madlib.sh
+git add madlib.sh
+ls -al
+cd madlib.sh
+git add madlib.sh
+git init
+git add madlib.sh
+pwd
+git commit -m "Madlib for Lab3"
+git push origin main
+git push origin labs
+git status
+git remote -v
+ls -a | grep .git
+git init
+git remote add origin https://github.com/djhan0330/DS2022-Review-Pull-Requests.git
+git push origin main
+git add madlib.sh
+git commit -m "This is my madlib for lab3"
+git push origin main
+git status
+git add .
+git commit -m "This is my madlib for lab3"
+git push origin main
+git puhs
+git push
+git branch
+git push --set-upstream origin master
+git status
+git branch
+git checkout main
+git switch main
+git branch
+history
+ls
+cd ..
+ls
+git pull main
+.git
+git add
+clear
+cd
+ls -al
+clear
+git init
+env | grep HOME
+clear
+echo $PATH
+ls -al
+.git add madlib.sh
+clear
